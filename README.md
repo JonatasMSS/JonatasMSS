@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
  <div style="display:inline-block">
     <br>
-    <img height=90 width=120 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
+   <img />
+    <img align="center" height=90 width=120 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
    </div>
   <div style="display:inline-block">
     <br>

@@ -19,6 +19,8 @@ Here are some ideas to get you started:
    <img />
     <img align="center" height=90 width=120 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
     <img align="center" height=90 width=120 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    <img align="center" height=90 width=120 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+          
           
    </div>
   <div style="display:inline-block">

@@ -3,7 +3,7 @@
 
 
 Here are some ideas to get you started:
-- 🌱 I’m currently learning: Flutter and Javascript
+- 🌱 I’m currently learning: ReactJS and Typescript
 - 😄 Pronouns: Ele/Dele
 
 

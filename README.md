@@ -1,31 +1,10 @@
-### Ola! Meu nome é Jonatas Miguel! 👋
+# 👋 Hi there, I'm Jonatas Miguel
+## 🔍Here is a brief introduction about myself 
+I'm passionate about technology since I was 13 years old. My first contact with development was when I was 14, when I programmed a game using C# with Unity. Since then, I have been exploring many languages like Python and JavaScript. When I entered middle school, I joined a robotics team called Criadores de Gigantes, where I could learn and deepen my studies in programming and development. I also took a technical course in software analysis and development. Since then, I have been working with ReactJS, TypeScript, NodeJS, and now, I'm entering a college for Data Science.
 
+## 🔗How contact me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&link=https://www.linkedin.com/in/jonatasmss/)](https://www.linkedin.com/in/jonatasmss/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat-square&link=https://www.instagram.com/dev.manojon)](https://www.instagram.com/dev.manojon)
+![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-gray?style=flat)
 
-
-Here are some ideas to get you started:
-- 🌱 I’m currently learning: ReactJS and Typescript
-- 😄 Pronouns: Ele/Dele
-
-
-
-<div align="center">
-  <a href="https://github.com/JonatasMSS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatasMSS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasMSS&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
- <div style="display:inline-block">
-    <br>
-   <img />
-    <img align="center" height=90 width=120 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
-    <img align="center" height=90 width=120 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-    <img align="center" height=90 width=120 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-          
-          
-   </div>
-  <div style="display:inline-block">
-    <br>
-    <a href="https://www.linkedin.com/in/jonatasmss/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    
-  </div>
- 
+For emails: jonatas.miguelss@gmail.com

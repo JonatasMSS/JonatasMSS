@@ -18,7 +18,7 @@ At the moment, I do not have any work experience working in the development area
 ## 📈Projects Overview
 
 <a href="https://github.com/JonatasMSS">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JonatasMSS&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/JonatasMSS">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonatasMSS&layout=compact&langs_count=8&card_width=320" />

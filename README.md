@@ -7,7 +7,7 @@ I'm passionate about technology since I was 13 years old. My first contact with 
 
 ## 🔗How contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&link=https://www.linkedin.com/in/jonatasmss/)](https://www.linkedin.com/in/jonatasmss/)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat-square&link=https://www.instagram.com/dev.manojon)](https://www.instagram.com/dev.manojon)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat-square&link=https://www.instagram.com/dev.manojon)](https://www.instagram.com/jonatas_migs/)
 ![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-gray?style=flat)
 
 For emails: jonatas.miguelss@gmail.com

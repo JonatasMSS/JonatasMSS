@@ -1,25 +1,52 @@
-# 👋 Hi there, I'm Jonatas Miguel
-- I love play guitar and piano
-- Studying Data Science at UFPB College
+<div align="center">
 
-## 🔍Here is a brief introduction about myself 
-I'm passionate about technology since I was 13 years old. My first contact with development was when I was 14, when I programmed a game using C# with Unity. Since then, I have been exploring many languages like Python and JavaScript. When I entered middle school, I joined a robotics team called Criadores de Gigantes, where I could learn and deepen my studies in programming and development. I also took a technical course in software analysis and development. Since then, I have been working with ReactJS, TypeScript, NodeJS, and now, I'm entering a college for Data Science.
+  <img width="480" height="300" alt="ascii-donut" src="https://github.com/user-attachments/assets/babfe2bf-76c1-429e-8081-0f77636df188" />
 
-## 🔗How contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&link=https://www.linkedin.com/in/jonatasmss/)](https://www.linkedin.com/in/jonatasmss/)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat-square&link=https://www.instagram.com/dev.manojon)](https://www.instagram.com/jonatas_migs/)
-![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-gray?style=flat)
 
-For emails: jonatas.miguelss@gmail.com
+  <h1>Hi, I'm Jonatas Miguel 👋</h1>
 
-## 💼 Job Experiene
-At the moment, I do not have any work experience working in the development area. I'm looking for an opportunity to put what I know into practice and learn how the work environment works
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Student+at+UFPB;Building+practical+intelligent+systems;Computer+Vision+%7C+Data+Engineering+%7C+LLMs" alt="Data Science and AI student at UFPB" />
 
-## 📈Projects Overview
+  <a href="https://www.linkedin.com/in/jonatasmss/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jonatas.miguelss@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
-<a href="https://github.com/JonatasMSS">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JonatasMSS&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/JonatasMSS">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonatasMSS&layout=compact&langs_count=8&card_width=320" />
-</a>
+## `whoami`
+
+I'm a **Data Science and Artificial Intelligence** undergraduate at **UFPB**, interested in turning messy real-world data into useful products. My work sits where computer vision, data engineering, and applied AI meet - from sports analytics to education and real-estate intelligence.
+
+```text
+now()       → Researching robust ball tracking for Goalball at ARIA / UFPB
+learning()  → Computer Vision, ML systems, NLP and LLM applications
+building()  → Data pipelines and AI products with measurable impact
+off_screen  → Guitar, piano, and a good problem to solve
+```
+
+## Selected work
+
+| Project | What I built |
+| :-- | :-- |
+| **Goalball Ball Tracking** · ARIA / UFPB | Researching TrackNet-based methods to make ball tracking more robust under occlusion and fast play. |
+| **Basketball Referee Assistance** · TAIL / UFPB | Built a computer-vision system for player and ball tracking, play recognition, and a real-time court minimap using homography. |
+| **ImobiliarIA** · TAIL / UFPB | Developed a full-stack real-estate analytics platform with Next.js, Docker, Python pipelines, and a LightGBM model that classified buy/rent opportunities with **83% accuracy**. |
+| **TutorIA** · TRIL / UFPB | Engineered the backend and OCR/data infrastructure for an educational WhatsApp chatbot using OpenAI, DeepSeek, MySQL, and Redis. |
+| **Studia** · Alura Competition | Created an AI learning chatbot with Fastify, Google Gemini, Next.js, and Tailwind CSS for context-aware student support. |
+
+## Toolbox
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,sql,fastapi,nodejs,nextjs,docker,pytorch,mysql,redis,git&perline=11" alt="Python, TypeScript, SQL, FastAPI, Node.js, Next.js, Docker, PyTorch, MySQL, Redis and Git" />
+</div>
+
+<br />
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JonatasMSS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Jonatas's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasMSS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</div>
+
+<div align="center">
+
+  *"Make it useful, make it reliable, then make it interesting."*
+
+</div>

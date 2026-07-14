@@ -9,7 +9,6 @@
 
   <a href="https://www.linkedin.com/in/jonatasmss/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jonatas.miguelss@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.instagram.com/jonatas_migs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
   <img src="https://komarev.com/ghpvc/?username=JonatasMSS&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="Profile views" />
 </div>

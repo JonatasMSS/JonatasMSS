@@ -40,10 +40,6 @@ off_screen  → Guitar, piano, and a good problem to solve
 
 <br />
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JonatasMSS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Jonatas's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasMSS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</div>
 
 <div align="center">
 
